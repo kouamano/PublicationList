@@ -33,6 +33,7 @@
 
 ## 職場の「情報」文化の例
 - サーバーのすべてがLinux/FreeBSDのオープンソース
+- コミュニケーションはgitlab + mattermost
 - ドキュメントはreSTで書く
 - 通常業務で積極的にスパコンも使用
 - 端末はwin/mac/linuxなんでも使う
